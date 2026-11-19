@@ -1,0 +1,20 @@
+{
+  "id": "evt_3Q9xLm2eZvKYlo2C1aBcDeFg",
+  "object": "event",
+  "api_version": "2024-06-20",
+  "created": 1763520000,
+  "livemode": false,
+  "type": "invoice.payment_succeeded",
+  "data": {
+    "object": {
+      "id": "in_1Q9xLl2eZvKYlo2C9xYzAbCd",
+      "object": "invoice",
+      "amount_paid": 4900,
+      "currency": "usd",
+      "customer": "cus_R4k9xSample01",
+      "subscription": "sub_1Q9xLk2eZvKYlo2C4mNpQrSt",
+      "status": "paid",
+      "billing_reason": "subscription_cycle"
+    }
+  }
+}
